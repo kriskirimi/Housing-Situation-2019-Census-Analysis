@@ -7,7 +7,7 @@ Created on Tue Mar 31 10:50:55 2020
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-df=pd.read_csv(r'C:\Users\KIRIMI\.spyder-py3\My Projects\Housing Situation Analysis Census 2019\Data\volume_4-table-2.11a_-main-dwelling-unit-by-mode-of-acquisition-area-of-residence-county-and-sub.csv')
+df=pd.read_csv(r'C:\Users\KIRIMI\Documents\GitHub\Housing-Situation-2019-Census-Analysis\Data\volume_4-table-2.11a_-main-dwelling-unit-by-mode-of-acquisition-area-of-residence-county-and-sub.csv')
 df.head(5)
 df.info
 df.columns
